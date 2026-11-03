@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-	  "open_app_ads":"ca-app-pub-3940256099942544/9257395921",
+      "main_ads_banner": "ca-app-pub-8504065955420162/3751989772",
+      "main_ads_intertitial":"ca-app-pub-8504065955420162/5642736079",
+	  "open_app_ads":"ca-app-pub-8504065955420162/1172173876",
       "interval_intertitial": 3,
       "status_app": "0",
       "link_redirect": "https://"
